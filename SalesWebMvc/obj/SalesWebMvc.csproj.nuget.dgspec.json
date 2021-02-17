@@ -95,6 +95,10 @@
               "target": "Package",
               "version": "[2.1.10, )"
             },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
             "System.IO.Pipelines": {
               "target": "Package",
               "version": "[5.0.1, )"
